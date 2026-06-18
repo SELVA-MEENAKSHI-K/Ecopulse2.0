@@ -1,89 +1,205 @@
 # 🌍 EcoPulse 2.0
 
+<img width="1024" height="1536" alt="WhatsApp Image 2026-06-19 at 2 31 29 AM" src="https://github.com/user-attachments/assets/ba2c19d5-d6a8-4944-a1e0-fb156f263a88" />
+
+
 ### AI-Powered Environmental Intelligence Platform
 
-EcoPulse 2.0 is a futuristic environmental intelligence platform designed to help users understand, monitor, and reduce their environmental impact through interactive analytics, sustainability tracking, and AI-powered insights.
+EcoPulse 2.0 is a modern environmental intelligence platform designed to help users understand, monitor, and reduce their carbon footprint through interactive dashboards, sustainability analytics, and intelligent environmental insights.
 
 ---
 
-## 🚀 Overview
+## 🚀 About the Project
 
-Climate awareness begins with understanding our impact.
+Climate change is one of the biggest challenges facing our planet today. EcoPulse 2.0 was created to transform environmental awareness into meaningful action by providing users with real-time sustainability insights and carbon footprint analysis.
 
-EcoPulse 2.0 transforms environmental data into meaningful insights, enabling users to make smarter and more sustainable decisions through an immersive digital experience.
+The platform combines modern UI/UX design, interactive data visualization, and AI-driven concepts to create an engaging environmental monitoring experience.
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
 ### 🌱 CarbonScan
 
-Calculate and analyze your carbon footprint with intelligent tracking.
+Calculate and analyze your carbon footprint through interactive environmental tracking.
 
 ### 📊 ImpactSphere Dashboard
 
-Monitor sustainability scores, environmental progress, and performance analytics.
+Monitor sustainability scores, environmental performance, and progress analytics.
 
 ### 🎯 GreenQuest
 
-Complete eco-friendly challenges and build sustainable habits.
+Encourage eco-friendly habits through sustainability challenges and achievements.
 
 ### 🌍 EcoVerse
 
-Explore environmental knowledge, awareness resources, and sustainability insights.
+Explore environmental awareness resources, educational content, and sustainability insights.
 
-### 🤖 AI-Powered Insights
+### 🤖 AI-Powered Intelligence
 
-Receive intelligent recommendations and actionable environmental guidance.
+Generate intelligent recommendations to help users make environmentally responsible decisions.
+
+### 📈 Real-Time Analytics
+
+Visualize environmental impact through modern charts, statistics, and performance indicators.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technology Stack
+
+### Frontend
 
 * React.js
 * TypeScript
 * Vite
 * Tailwind CSS
 * Modern UI/UX Design
+* Responsive Web Design
+
+### Deployment
+
 * GitHub Pages
 
+### Future Backend Integration
+
+* User Authentication
+* Carbon Footprint Database
+* AI Recommendation Engine
+* Environmental Analytics APIs
+* User Progress Tracking
+
 ---
 
-## 📸 Screenshots
-<img width="1024" height="1536" alt="WhatsApp Image 2026-06-19 at 2 31 29 AM" src="https://github.com/user-attachments/assets/84d741df-fa88-4166-9a47-dfeb217ee586" />
+## 📸 Project Preview
 
+### Home Dashboard
+
+Modern futuristic dashboard with environmental analytics.
+
+### Carbon Footprint Analysis
+
+Interactive carbon footprint tracking and visualization.
+
+### Sustainability Insights
+
+AI-powered recommendations and environmental awareness tools.
 
 ---
 
-## 🎯 Project Goal
+## 🎯 Project Objectives
 
-To bridge the gap between environmental awareness and action by providing users with a modern platform that promotes sustainability through data-driven insights.
+* Promote environmental awareness.
+* Help users understand their carbon footprint.
+* Encourage sustainable lifestyle choices.
+* Provide data-driven environmental insights.
+* Bridge the gap between awareness and action.
 
 ---
 
 ## 🌎 Vision
 
-Empowering individuals to make environmentally responsible decisions and contribute towards a greener future.
+To empower individuals with technology-driven environmental intelligence and inspire sustainable actions that contribute to a greener future.
 
 ---
 
-## 🔗 Live Demo
+## 🔗 Project Links
 
-👉 https://selva-meenakshi-k.github.io/Ecopluse/
+### 🌐 Live Website
 
+https://selva-meenakshi-k.github.io/Ecopluse/
+
+### 💻 GitHub Repository
+
+https://github.com/SELVA-MEENAKSHI-K/Ecopluse
+
+### 🎨 Frontend Source Code
+
+https://github.com/SELVA-MEENAKSHI-K/Ecopluse/tree/main/src
+
+### ⚙️ Backend Repository
+
+Currently not available. Future backend integration is planned.
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/SELVA-MEENAKSHI-K/Ecopluse.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd Ecopluse
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📈 Future Enhancements
+
+* AI-powered sustainability recommendations
+* User accounts and authentication
+* Environmental progress tracking
+* Carbon reduction goals
+* Community sustainability challenges
+* Advanced environmental analytics
+* Mobile application support
+
+---
 
 ## 👨‍💻 Developer
 
-**Selva Meenakshi K**
+### Selva Meenakshi K
 
 B.Sc Computer Science Student
 
-Passionate about Web Development, AI, UI/UX Design, and Sustainable Technology.
+Passionate about:
+
+* Web Development
+* Artificial Intelligence
+* UI/UX Design
+* Sustainability Technology
+* Frontend Engineering
 
 ---
 
-## 💚 EcoPulse 2.0
+## 📬 Connect With Me
+
+### GitHub
+
+https://github.com/SELVA-MEENAKSHI-K
+
+### LinkedIn
+
+(Add Your LinkedIn Profile URL Here)
+
+---
+
+# 💚 EcoPulse 2.0
 
 ### Scan • Analyze • Act
 
 *"Every action creates an impact. Every choice shapes the future."*
+
+🌍 Building a smarter and greener future through technology.
